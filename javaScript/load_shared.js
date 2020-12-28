@@ -1,6 +1,6 @@
 
 
-    document.getElementById("headerTitle").innerHTML = "<h2><a href='DW_Math.html'> DW Math Interest Group</a></h2>"
+    document.getElementById("headerTitle").innerHTML = "<h2><a href='index.html'> DW Math Interest Group</a></h2>"
                                                 + "<p>This is the Homepage of the site. Write something here...</p>";
   
 
